@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabriel-berzescu
 - 👀 I’m interested in artificial general intelligence
-- 🌱 I’m currently learning prompt engineering
-- 💞️ I’m looking to collaborate on foundation models
+- 🌱 I’m currently pondering the meaning of large language models
+- 💞️ I’m looking to collaborate on mutual alignment between humans and AI
 - 📫 How to reach me https://gab.ro/
 
 <!---
